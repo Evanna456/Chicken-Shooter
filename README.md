@@ -2,11 +2,6 @@
 
 A chicken shooting game.
 
-## Usage
-
-* 1.)Download and Install [Java 8 SE Runtime](https://www.java.com/en/download/manual.jsp).
-* 2.)Run Executable.
-
 ## Processing
 
 <p align="center"><img src="https://i.imgur.com/KZop7OA.png" width="150px" height="auto" alt="Logo"></a></p>
